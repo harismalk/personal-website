@@ -1,5 +1,7 @@
 import { useEffect, useRef } from 'react';
 import SectionHeading from '../SectionHeading';
+import ExternalLink from '@/components/ExternalLink';
+
 
 export default function BoxdOffice() {
   const videoRef = useRef(null);
@@ -66,16 +68,17 @@ export default function BoxdOffice() {
         <ul className="list-disc pl-5 font-body font-light dark:[&>li]:marker:text-darkSecondary">
           <li>React frontend with Framer Motion animations and UI design</li>
           <li>Node.js + Express backend with a cron job running to automatically process incoming emails</li>
-          <li>Google OAuth 2.0 + Gmail API for authentication and all email read/write operations</li>
+          <li>OpenAI for generating email draft responses and powering the chat assistant via a RAG (Retrieval-Augmented Generation) pipeline</li>
           <li>MongoDB Atlas for data storage, with Vector Search (1536-dimension embeddings) enabling semantic retrieval of email history</li>
-          <li>Swilio for optional SMS notifications on matched automation rules</li>
+          <li>Google OAuth 2.0 + Gmail API for authentication and all email read/write operations</li>
+          <li>Twilio for SMS notifications</li>
         </ul>
       </div>
 
       <div className="mb-6">
         <SectionHeading>Thoughts</SectionHeading>
         <p className="font-body  mb-4 font-light">
-        I built Sunday Mail as a cheaper alternative to a YCombinator company doing something similar, but charging $100/month. The core idea was simple: let users
+        I built Sunday Mail as a cheaper alternative to a Y Combinator-backed <ExternalLink href="https://www.friday.so">company</ExternalLink>  doing something similar, but charging $100/month. The core idea was simple: let users
   write automation rules in plain English ("if someone asks about invoices, draft a reply and text me"), and have the app handle the rest
   silently in the background. I ended up implementing a full RAG pipeline so it could reference real email history rather
   than hallucinate context. Storing embeddings directly in MongoDB Atlas kept the architecture clean without needing a separate vector

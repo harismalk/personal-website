@@ -31,7 +31,8 @@ const artData = [
       },
       {
         "image": "/images/art/cats.jpg"
-      }
+      },
+
     ]
   },
 ];
