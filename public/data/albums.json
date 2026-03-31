@@ -1,0 +1,202 @@
+[
+    {
+        "title": "Discovery",
+        "artist": "Daft Punk",
+        "image": "https://upload.wikimedia.org/wikipedia/en/2/27/Daft_Punk_-_Discovery.png"
+    },
+    {
+        "title": "Illmatic",
+        "artist": "Nas",
+        "image": "https://upload.wikimedia.org/wikipedia/en/2/27/IllmaticNas.jpg"
+    },
+    {
+        "title": "Currents",
+        "artist": "Tame Impala",
+        "image": "https://upload.wikimedia.org/wikipedia/en/9/9b/Tame_Impala_-_Currents.png"
+    },
+    {
+        "title": "Is This It",
+        "artist": "The Strokes",
+        "image": "https://upload.wikimedia.org/wikipedia/en/e/e7/The_Strokes_-_Ist_Tis_It_US_cover.png"
+    },
+    {
+        "title": "1999",
+        "artist": "Joey Bada$$",
+        "image": "https://upload.wikimedia.org/wikipedia/en/5/56/1999_Joey_Badass.jpg"
+    },
+    {
+        "title": "Norman Fucking Rockwell!",
+        "artist": "Lana Del Rey",
+        "image": "https://upload.wikimedia.org/wikipedia/en/8/8a/Lana_Del_Rey_-_Norman_Fucking_Rockwell.png"
+    },
+    {
+        "title": "Without Warning",
+        "artist": "21 Savage, Offset, Metro Boomin",
+        "image": "https://upload.wikimedia.org/wikipedia/en/d/de/21_Savage%2C_Offset_%26_Metro_Boomin_-_Without_Warning.png"
+    },
+    {
+        "title": "ASTROWORLD",
+        "artist": "Travis Scott",
+        "image": "https://upload.wikimedia.org/wikipedia/en/4/4b/Travis_Scott_-_Astroworld.png"
+    },
+    {
+        "title": "Folklore",
+        "artist": "Taylor Swift",
+        "image": "https://upload.wikimedia.org/wikipedia/en/f/f8/Taylor_Swift_-_Folklore.png"
+    },
+    {
+        "title": "Metallica",
+        "artist": "Metallica",
+        "image": "https://upload.wikimedia.org/wikipedia/en/2/2c/Metallica_-_Metallica_cover.jpg"
+    },
+    {
+        "title": "In Rainbows",
+        "artist": "Radiohead",
+        "image": "https://upload.wikimedia.org/wikipedia/en/1/14/Inrainbowscover.png"
+    },
+    {
+        "title": "Starboy",
+        "artist": "The Weeknd",
+        "image": "https://upload.wikimedia.org/wikipedia/en/3/39/The_Weeknd_-_Starboy.png"
+    },
+    {
+        "title": "Playboi Carti",
+        "artist": "Playboi Carti",
+        "image": "https://upload.wikimedia.org/wikipedia/en/a/a1/Playboi_Carti_-_mixtape.jpg"
+    },
+    {
+        "title": "Souvlaki",
+        "artist": "Slowdive",
+        "image": "https://upload.wikimedia.org/wikipedia/en/a/a6/Souvlaki_%28album%29_cover.jpg"
+    },
+    {
+        "title": "Demon Days",
+        "artist": "Gorillaz",
+        "image": "https://upload.wikimedia.org/wikipedia/en/d/df/Gorillaz_Demon_Days.PNG"
+    },
+    {
+        "title": "Visions",
+        "artist": "Grimes",
+        "image": "https://upload.wikimedia.org/wikipedia/en/c/c1/Grimes_-_Visions_album_cover.png"
+    },
+    {
+        "title": "Disintegration",
+        "artist": "The Cure",
+        "image": "https://upload.wikimedia.org/wikipedia/en/b/b8/CureDisintegration.jpg"
+    },
+    {
+        "title": "Evil Empire",
+        "artist": "Rage Against the Machine",
+        "image": "https://upload.wikimedia.org/wikipedia/en/4/45/Rage_Against_the_Machine_-_Evil_Empire.png"
+    },
+    {
+        "title": "Rodeo",
+        "artist": "Travis Scott",
+        "image": "https://upload.wikimedia.org/wikipedia/en/1/15/Travis_Scott_-_Rodeo.png"
+    },
+    {
+        "title": "Favourite Worst Nightmare",
+        "artist": "Arctic Monkeys",
+        "image": "https://upload.wikimedia.org/wikipedia/en/a/ae/Favourite_Worst_Nightmare.jpg"
+    },
+    {
+        "title": "Madvillainy",
+        "artist": "Madvillain, Madlib, MF DOOM",
+        "image": "https://upload.wikimedia.org/wikipedia/en/5/5e/Madvillainy_cover.png"
+    },
+    {
+        "title": "MM..FOOD",
+        "artist": "MF DOOM",
+        "image": "https://upload.wikimedia.org/wikipedia/en/8/8a/Mmfood.jpg"
+    },
+    {
+        "title": "Paranoid",
+        "artist": "Black Sabbath",
+        "image": "https://upload.wikimedia.org/wikipedia/en/6/64/Black_Sabbath_-_Paranoid.jpg"
+    },
+    {
+        "title": "Random Access Memories",
+        "artist": "Daft Punk",
+        "image": "https://upload.wikimedia.org/wikipedia/en/2/26/Daft_Punk_-_Random_Access_Memories.png"
+    },
+    {
+        "title": "OK Computer",
+        "artist": "Radiohead",
+        "image": "https://upload.wikimedia.org/wikipedia/en/b/ba/Radioheadokcomputer.png"
+    },
+    {
+        "title": "Nevermind",
+        "artist": "Nirvana",
+        "image": "https://upload.wikimedia.org/wikipedia/en/b/b7/NirvanaNevermindalbumcover.jpg"
+    },
+    {
+        "title": "Room on Fire",
+        "artist": "The Strokes",
+        "image": "https://upload.wikimedia.org/wikipedia/en/9/9f/Room_on_Fire_cover.jpg"
+    },
+    {
+        "title": "Did you know that there's a tunnel under Ocean Blvd",
+        "artist": "Lana Del Rey",
+        "image": "https://upload.wikimedia.org/wikipedia/en/4/4f/Lana_Del_Rey_-_Did_You_Know_That_There%27s_a_Tunnel_Under_Ocean_Blvd.png"
+    },
+    {
+        "title": "Plastic Beach",
+        "artist": "Gorillaz",
+        "image": "https://upload.wikimedia.org/wikipedia/en/d/d1/Plasticbeach452.jpg"
+    },
+    {
+        "title": "Bleach",
+        "artist": "Nirvana",
+        "image": "https://upload.wikimedia.org/wikipedia/en/a/a1/Nirvana-Bleach.jpg"
+    },
+    {
+        "title": "An Evening with Silk Sonic",
+        "artist": "Bruno Mars, Anderson .Paak, Silk Sonic",
+        "image": "https://upload.wikimedia.org/wikipedia/en/8/8e/Silk_Sonic_-_An_Evening_with_Silk_Sonic.png"
+    },
+    {
+        "title": "Black Holes and Revelations",
+        "artist": "Muse",
+        "image": "https://upload.wikimedia.org/wikipedia/en/c/c5/BlackHolesCover.jpg"
+    },
+    {
+        "title": "Swimming",
+        "artist": "Mac Miller",
+        "image": "https://upload.wikimedia.org/wikipedia/en/5/5e/Mac_Miller_-_Swimming.png"
+    },
+    {
+        "title": "Saturation II",
+        "artist": "BROCKHAMPTON",
+        "image": "https://upload.wikimedia.org/wikipedia/en/d/d1/Brockhampton_-_Saturation_II.png"
+    },
+    {
+        "title": "Heroes & Villains",
+        "artist": "Metro Boomin",
+        "image": "https://upload.wikimedia.org/wikipedia/en/5/5f/Metro_Boomin_-_Heroes_%26_Villains.png"
+    },
+    {
+        "title": "good kid, m.A.A.d city",
+        "artist": "Kendrick Lamar",
+        "image": "https://upload.wikimedia.org/wikipedia/en/9/93/KendrickGKMC.jpg"
+    },
+    {
+        "title": "Rumours",
+        "artist": "Fleetwood Mac",
+        "image": "https://upload.wikimedia.org/wikipedia/en/f/fb/FMacRumours.PNG"
+    },
+    {
+        "title": "Around the Fur",
+        "artist": "Deftones",
+        "image": "https://upload.wikimedia.org/wikipedia/en/2/21/Deftones_-_Around_the_Fur.jpg"
+    },
+    {
+        "title": "Lullabies to Paralyze",
+        "artist": "Queens of the Stone Age",
+        "image": "https://upload.wikimedia.org/wikipedia/en/d/df/Queens_of_the_Stone_Age_Lullabies_to_Paralyze.jpg"
+    },
+    {
+        "title": "IGOR",
+        "artist": "Tyler, the Creator",
+        "image": "https://upload.wikimedia.org/wikipedia/en/5/51/Igor_-_Tyler%2C_the_Creator.jpg"
+    }
+]
