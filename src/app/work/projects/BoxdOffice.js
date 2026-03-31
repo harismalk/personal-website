@@ -64,20 +64,29 @@ export default function BoxdOffice() {
       <div className="mb-6">
         <SectionHeading>Technical Overview</SectionHeading>
         <ul className="list-disc pl-5 font-body font-light dark:[&>li]:marker:text-darkSecondary">
-          <li>Python with Beautiful Soup for web scraping profiles and film data</li>
-          <li>Multithreaded scraping with ThreadPoolExecutor for faster data collection</li>
-          <li>Pandas for data processing and analysis</li>
-          <li>Plotly for interactive visualizations</li>
-          <li>Streamlit for designing and deploying the web interface</li>
+          <li>React frontend with Framer Motion animations and UI design</li>
+          <li>Node.js + Express backend with a cron job running to automatically process incoming emails</li>
+          <li>Google OAuth 2.0 + Gmail API for authentication and all email read/write operations</li>
+          <li>MongoDB Atlas for data storage, with Vector Search (1536-dimension embeddings) enabling semantic retrieval of email history</li>
+          <li>Swilio for optional SMS notifications on matched automation rules</li>
         </ul>
       </div>
 
       <div className="mb-6">
         <SectionHeading>Thoughts</SectionHeading>
         <p className="font-body  mb-4 font-light">
-          This project was a really fun way to combine my personal interests into a tangible product. I thought about what kind of insights would be meaningful to someone who watches a lot of movies and how to present those insights in a way that's both informative and enjoyable to look at. Letterboxd doesn't have a public API, so I turned to web scraping with Beautiful Soup. This meant I had to be careful with rate limits (I accidentally exceeded them at one point). On the front-end side, I put some effort into mimicking Letterboxd's UI to make the dashboard feel like a natural extension of the platform. There's a lot of room to improve and expand the project (ML-based recommendations?), but overall I'm happy with how it turned out, and it was super satisfying to bring the idea to life.
-        </p>
+        I built Sunday Mail as a cheaper alternative to a YCombinator company doing something similar, but charging $100/month. The core idea was simple: let users
+  write automation rules in plain English ("if someone asks about invoices, draft a reply and text me"), and have the app handle the rest
+  silently in the background. I ended up implementing a full RAG pipeline so it could reference real email history rather
+  than hallucinate context. Storing embeddings directly in MongoDB Atlas kept the architecture clean without needing a separate vector
+  database. The cron-based polling approach trades some latency for simplicity, which was the right call at this stage. There's a natural
+  next step toward a recommendation or triage system using the embeddings already being collected, and adding more email providers beyond
+  Gmail would open it up significantly. Overall, this was a great project for me to learn more about building RAG pipelines from scratch!    </p>
       </div>
     </div>
   );
 }
+
+
+
+  
