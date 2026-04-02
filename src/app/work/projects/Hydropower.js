@@ -6,7 +6,7 @@ export default function Hydropower() {
         <div className="mb-6">
           <SectionHeading>Technical Overview</SectionHeading>
           <p className="font-body  font-light mb-2">
-            Implemetning this integration involved:
+            Implementing this integration involved:
           </p>
           <ul className="list-disc pl-5 font-body font-light dark:[&>li]:marker:text-darkSecondary">
             <li>Turned Terraform plan output into APIC-style JSON payloads so infrastructure defined in Terraform could be expressed in the same object model the controller expects, without hand-writing REST bodies</li>
